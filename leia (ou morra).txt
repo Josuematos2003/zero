@@ -1,0 +1,35 @@
+
+
+ZERO É UM BOT LIVRE, GRÁTIS E EDITÁVEL.
+by Tio Momonga.
+
+Instalação:
+
+cd
+
+termux-setup-storage
+
+ls ( caso apareça "permission denied" ou "não é possível ler" tente novamente)
+
+cd /sdcard/PASTA ONDE ESTÁ O SEU BOT
+
+bash install.sh
+
+sempre que aparecer uma pergunta digite Y e dê enter.
+
+Escaneie o QR Code e seja feliz.
+
+
+*nota: Talvez, dependendo do seu Whatsapp, ele não vai enviar os botões. Eu uso o Yggdrasil
+https://youtu.be/Wd6_zxqJ6lM
+
+
+
+me: 554991579631
+
+meu grupo: https://chat.whatsapp.com/JiXC3HsAgZs2Ry8mcq75iG
+
+meu canal: https://youtube.com/channel/UCEXnX1CqgbV5xVabZG71aUw
+
+não há segredo baka. Só seguir os passos.
+

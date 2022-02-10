@@ -1,0 +1,13 @@
+
+
+
+Ao ligar o bot pela primeira vez, não altere o settings.json.
+
+Primeiro, abra o seu whatsapp e dê o comando .nomes
+Uma lista com vários nomes será mostrada.
+
+Altere o seu nome para um daqueles da lista, que o bot vai falar.
+
+Caso você coloque um nome diferente do que está na lista, o bot irá fechar. 
+
+sério cara, tô avisano seu besta.

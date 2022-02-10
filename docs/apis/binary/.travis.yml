@@ -1,0 +1,18 @@
+language: node_js
+os:
+- linux
+- windows
+- osx
+
+node_js:
+ - 15
+ - 14
+ 
+install:
+  - npm install -g
+  - npm install --only-dev
+
+script:
+  - node test/tests.js
+  
+ 

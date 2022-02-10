@@ -1,0 +1,29 @@
+
+/// 
+base: MhankBarBar
+(https://github.com/MhankBarBar/termux-wabot)
+///
+
+///
+node_modules: lolizita bot
+tobi
+(https://youtu.be/Vl70Us_Nveg)
+////
+
+outros recursos:
+botões,
+funções,
+certas cases:
+
+Dark
+Aleatory bot (https://youtu.be/OcIQI-cwfQc)
+Megumin bot (https://youtu.be/REruyh-x1ns)
+Akame bot (https://youtu.be/2ONryCZjzLs)
+Kriz bot(+994 40 810 34 70)
+
+** todos os arquivos aqui reunidos FORAM PEGUES DE VÍDEOS DO YOUTUBE, DESCRIPTOGRAFADOS, com excessão do Aleatory bot© (comprado com o próprio dono), porém é uma versão defasada do mesmo.
+
+Zero é totalmente grátis, e editável. NÃO É PAGO, E NUNCA SERÁ!
+Você sempre pode encontrar as atualizações desse bot no meu canal no YouTube. Além disso, eu criei e refiz vários comandos, basta olhar.
+
+assinado: Tio Momonga/Gabriel
