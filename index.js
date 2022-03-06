@@ -238,7 +238,7 @@ var pushname = zero.contacts[sender] != undefined ? zero.contacts[sender].vname 
 			const groupAdmins = isGroup ? getGroupAdmins(groupMembers) : '';
 			const isBotGroupAdmins = groupAdmins.includes(botNumber) || false;
 			const isGroupAdmins = groupAdmins.includes(sender) || false;			
-const isOwner = sender.includes(dono) ? sender.includes(dono):sender.includes(dono2) ? sender.includes(dono):sender.includes(dono3) ? sender.includes(dono):sender.includes(dono4);
+const isOwner = sender.includes(dono) ? sender.includes(dono):sender.includes(dono2);
 
 if (isBlocked) return; // banir bloqueados
 if (isBotGroupAdmins) if (isBlackList) await zero.groupRemove(from, [sender]); // blacklist ban
