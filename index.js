@@ -3714,6 +3714,8 @@ mentions(`⋆⃟ۣۜ᭪➣ Consulta da atividade de ⋆⃟ۣۜ᭪➣ @${mentione
 
 break
 
+
+
 case 'topativos':
  
 if (!isOwner) if (!isGroupAdmins) return reply (`${say.only.admin}`);
@@ -3738,6 +3740,19 @@ mentions(boardi, mentioned_jid, true)
 await zero.sendMessage(from, `É necessário 3 jogadores para se construir um ranking`, text, {quoted: selocont})
 }
 
+break
+
+case 'loli2'://©by Yubi
+try {
+let yubilOve = await fetchJson ('https://yubiapi.herokuapp.com/loli?apikey=apikyyubi');
+let yubzinFo = await getBuffer (yubilOve.result);
+zero.sendMessage(from, yubzinFo, image, {
+caption: `${yubilOve.text}`,
+quoted: mek
+});
+} catch {
+reply('sem loli pra vc ni-san')
+}
 break
 
 case 'contador':  
