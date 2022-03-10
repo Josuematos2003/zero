@@ -2336,7 +2336,7 @@ ${
 
 // #dono
 
-case 'loli'://©by Yubi
+case 'loli2'://©by Yubi
 try {
 let yubilOve = await fetchJson ('https://yubiapi.herokuapp.com/loli?apikey=Yubi');
 let yubzinFo = await getBuffer (yubilOve.result);
